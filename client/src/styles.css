@@ -1,0 +1,16 @@
+body {
+  background:
+  linear-gradient(
+    rgba(0, 0, 0, 0.3), 
+    rgba(0, 0, 0, 0.3)
+  ),
+  url(https://media.istockphoto.com/photos/futuristic-tunnelsci-fi-blue-glowingled-neon-lightsempty-space-cyber-picture-id1303973122?b=1&k=20&m=1303973122&s=170667a&w=0&h=fvhQT0ZJeQWp3nVmZAt0aCXREUmwEM6kXj4AGblY-4s=);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
