@@ -28,4 +28,4 @@ This project was made to create an application just like zoom, where users can c
 ## How to delopy the App
 - You can use your prefered site to delopy the backend sever but I personally use ```heroku``` to delopy the backend, If you're interested you can go to <a href="www.heroku.com">heroku</a>
 - switch to the client folder in your terminal and run ```npm run build``` to create a build folder for your frontend, then you can use <a href="www.netlify.com">netlify</a> to delopy the frontend.
-- Congratulation your App is live to viewed🌐✨.
+- Congratulation your App is live to be viewed🌐✨.
